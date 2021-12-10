@@ -3,5 +3,5 @@
 ## to install 
 
 ```
-composer create-project --prefer-dist youns3510/phplite
+composer create-project --prefer-dist eagle_mvc/php
 ```
