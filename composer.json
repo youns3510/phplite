@@ -1,6 +1,6 @@
 {
-    "name": "eagle_mvc/php",
-    "description": "Php framework",
+    "name": "youns3510/php_mvc_framework",
+    "description": "Php MVC framework",
     "type": "project",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "email": "youns3510@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php" : "^7.1.3",
         "youns3510/framework": "1.0.*"
